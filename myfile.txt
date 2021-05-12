@@ -1,0 +1,15 @@
+date:2015-05-22 16:46:46
+type: INFO 
+text: Starting to Wait for Files
+
+date:2015-05-22 16:46:56
+type: Warnings 
+text: Starting: Attempt 1 Checking for New Files from gs://folder/folder/
+
+date:2015-05-22 16:47:46
+type: INFO 
+text: Success: Downloading the Files from Cloud Storage: Return Code - 0 and FileCount 1
+
+date:2015-05-22 16:48:48
+type: ERROR 
+text: Failed: Waiting for files the Files from Cloud Storage: gs://folder/folder/
